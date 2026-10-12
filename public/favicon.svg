@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#2563eb" />
+    </linearGradient>
+    <linearGradient id="sunGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fde047" />
+      <stop offset="100%" stop-color="#f97316" />
+    </linearGradient>
+  </defs>
+  <circle cx="44" cy="22" r="14" fill="url(#sunGrad)" />
+  <path d="M48 48H18C12.477 48 8 43.523 8 38c0-5.187 3.95-9.452 9.006-9.948C18.665 21.033 24.636 16 32 16c8.118 0 14.85 6.096 15.82 14.073C52.268 30.687 56 34.914 56 40c0 4.418-3.582 8-8 8z" fill="url(#skyGrad)" opacity="0.9" filter="drop-shadow(0 4px 6px rgba(0,0,0,0.15))" />
+</svg>
